@@ -3,26 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-=======
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^29.5.0",
     "@types/node": "^16.11.14",
-    "@types/react": "^18.2.51",
-    "@types/react-dom": "^18.2.18",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.2.1",
->>>>>>> c8d54ae (first Commit)
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-router-dom": "^6.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,14 +23,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-<<<<<<< HEAD
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-=======
     "root": true
->>>>>>> c8d54ae (first Commit)
   },
   "browserslist": {
     "production": [
