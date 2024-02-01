@@ -1,0 +1,82 @@
+.backlogo4-icon4,
+.backlogo425,
+.backlogo426,
+.backlogo427 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 343px;
+  height: 379px;
+}
+.backlogo425,
+.backlogo426,
+.backlogo427 {
+  left: 1042px;
+  background-color: var(--color-darkslategray);
+}
+.backlogo426,
+.backlogo427 {
+  left: 695px;
+}
+.backlogo427 {
+  left: 347px;
+}
+.hp-smartchoice-14s,
+.hp-smartchoice-14s1,
+.hp-smartchoice-14s2,
+.hp-smartchoice-14s3 {
+  position: absolute;
+  top: 311px;
+  left: 19px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.hp-smartchoice-14s1,
+.hp-smartchoice-14s2,
+.hp-smartchoice-14s3 {
+  left: 357px;
+}
+.hp-smartchoice-14s2,
+.hp-smartchoice-14s3 {
+  left: 711px;
+}
+.hp-smartchoice-14s3 {
+  left: 1059px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon,
+.image-4-icon {
+  position: absolute;
+  top: 13px;
+  left: 1059px;
+  width: 314px;
+  height: 283px;
+  object-fit: cover;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  left: 362px;
+}
+.image-1-icon,
+.image-2-icon {
+  left: 710px;
+}
+.image-1-icon {
+  left: 17px;
+}
+.row-1 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 1385px;
+  height: 379px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}

@@ -1,0 +1,114 @@
+.background-blobs-icon,
+.image-9-icon {
+  position: absolute;
+  top: -146px;
+  left: -72px;
+  width: 687.7px;
+  height: 699.5px;
+}
+.image-9-icon {
+  top: -165px;
+  left: -317px;
+  width: 223.4px;
+  height: 520px;
+  object-fit: contain;
+}
+.explore-a-wide,
+.or {
+  position: absolute;
+  top: 255px;
+  left: 550px;
+  display: inline-block;
+  width: 71px;
+  height: 119px;
+}
+.explore-a-wide {
+  top: 145px;
+  left: -5px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue-100);
+  width: 1220px;
+  height: 86px;
+}
+.middle-content-homepage {
+  position: absolute;
+  top: 445px;
+  left: 440px;
+  width: 1220px;
+  height: 235px;
+}
+.empower-business-management {
+  position: absolute;
+  height: 26.57%;
+  width: 68.91%;
+  top: 24.44%;
+  left: 22.66%;
+  display: inline-block;
+}
+.backlogo4,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.backlogo4 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 575px;
+  height: 48.5px;
+}
+.home1 {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+.about-us,
+.contact,
+.home,
+.products {
+  position: absolute;
+  top: 10px;
+  left: 33px;
+  width: 72px;
+  height: 28px;
+}
+.about-us,
+.contact,
+.products {
+  left: 304px;
+  width: 107px;
+}
+.contact,
+.products {
+  left: 453px;
+}
+.products {
+  height: 57.73%;
+  width: 18.61%;
+  top: 20.62%;
+  right: 55.83%;
+  bottom: 21.65%;
+  left: 25.57%;
+}
+.navbar {
+  position: absolute;
+  top: 95px;
+  left: 435px;
+  width: 575px;
+  height: 48.5px;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
+.home-main {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  height: 1080px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-poppins);
+}

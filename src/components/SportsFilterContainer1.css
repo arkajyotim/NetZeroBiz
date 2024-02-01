@@ -1,0 +1,127 @@
+.back {
+  position: absolute;
+  top: 846px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+  width: 846px;
+  height: 314px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.clothing,
+.grocery,
+.sports {
+  position: absolute;
+  top: 355px;
+  left: 62px;
+  display: inline-block;
+  width: 223px;
+  height: 29px;
+}
+.clothing,
+.grocery {
+  top: 217px;
+}
+.clothing {
+  top: 118px;
+}
+.checkbox-icon {
+  position: absolute;
+  top: 114.9px;
+  left: 29px;
+  width: 24px;
+  height: 27.1px;
+  overflow: hidden;
+}
+.checkbox-icon1,
+.checkbox-icon2,
+.checkbox-icon3,
+.checkbox-icon4,
+.checkbox-icon5 {
+  position: absolute;
+  height: 3.2%;
+  width: 7.64%;
+  top: 19.31%;
+  right: 83.12%;
+  bottom: 77.48%;
+  left: 9.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checkbox-icon2,
+.checkbox-icon3,
+.checkbox-icon4,
+.checkbox-icon5 {
+  top: 25.06%;
+  bottom: 71.74%;
+}
+.checkbox-icon3,
+.checkbox-icon4,
+.checkbox-icon5 {
+  top: 36.13%;
+  bottom: 60.66%;
+}
+.checkbox-icon4,
+.checkbox-icon5 {
+  top: 41.88%;
+  bottom: 54.92%;
+}
+.checkbox-icon5 {
+  top: 30.8%;
+  bottom: 65.99%;
+}
+.filters1 {
+  top: 31px;
+  left: 29px;
+  font-size: var(--font-size-29xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-align: center;
+  width: 256px;
+  height: 82px;
+}
+.beauty,
+.color,
+.electronics,
+.filters1,
+.health {
+  position: absolute;
+  display: inline-block;
+}
+.color {
+  top: 409px;
+  left: 100px;
+  font-size: var(--font-size-13xl);
+  text-decoration: underline;
+  text-align: center;
+  width: 114px;
+  height: 32.8px;
+}
+.beauty,
+.electronics,
+.health {
+  top: 168px;
+  left: 62px;
+  width: 223px;
+  height: 29px;
+}
+.beauty,
+.health {
+  top: 261px;
+}
+.beauty {
+  top: 310px;
+}
+.filters {
+  position: absolute;
+  top: 213px;
+  left: 74px;
+  width: 314px;
+  height: 846px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}

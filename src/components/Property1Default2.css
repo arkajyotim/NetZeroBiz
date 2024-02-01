@@ -1,0 +1,40 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.77);
+}
+.join-us {
+  position: absolute;
+  height: 50.54%;
+  width: 60.04%;
+  top: 17.2%;
+  left: 36.75%;
+  display: inline-block;
+}
+.arrow-icon1 {
+  position: absolute;
+  height: 33.33%;
+  width: 6.22%;
+  top: 31.18%;
+  right: 27.11%;
+  bottom: 35.48%;
+  left: 66.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property-1default2 {
+  width: 498px;
+  height: 93px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-poppins);
+}

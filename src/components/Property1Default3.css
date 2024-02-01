@@ -1,0 +1,33 @@
+.backlogo421 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-products5 {
+  position: absolute;
+  top: 9px;
+  left: 114px;
+  display: inline-block;
+  width: 228px;
+  height: 29px;
+}
+.frame-icon8 {
+  position: absolute;
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.property-1default3 {
+  width: 402px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-darkgray);
+  font-family: var(--font-gotham);
+}

@@ -1,0 +1,26 @@
+.login-brown {
+  position: absolute;
+  top: 73.2px;
+  left: 92.5px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4.4px 10.6px #000;
+  width: 141.9px;
+  height: 48.5px;
+}
+.login {
+  position: absolute;
+  top: 82px;
+  left: calc(50% - 89.35px);
+  display: inline-block;
+  width: 90.6px;
+  height: 29.1px;
+}
+.property-1default {
+  width: 414.7px;
+  height: 119px;
+  text-align: left;
+  font-size: var(--font-size-8xl-1);
+  color: var(--color-black);
+  font-family: var(--font-gotham);
+}

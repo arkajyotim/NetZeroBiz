@@ -1,0 +1,35 @@
+.logo-black {
+  position: absolute;
+  top: 0;
+  left: 134.1px;
+  border-radius: 31.36px 0 31.36px 0;
+  background-color: var(--color-black);
+  width: 138.7px;
+  height: 64.7px;
+}
+.netze1,
+.robiz1 {
+  position: absolute;
+  top: 8.9px;
+  left: 143.2px;
+  display: inline-block;
+  width: 173.8px;
+  height: 80.4px;
+}
+.netze1 {
+  top: 8.2px;
+  left: 0;
+  color: var(--color-black);
+  height: 48.4px;
+}
+.main-logo {
+  position: absolute;
+  top: 78px;
+  left: 69px;
+  width: 317px;
+  height: 89.3px;
+  text-align: left;
+  font-size: var(--font-size-24xl-6);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}

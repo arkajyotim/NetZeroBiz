@@ -1,0 +1,40 @@
+.view-buttondefault-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.77);
+}
+.view-products {
+  position: absolute;
+  height: 50.54%;
+  width: 60.04%;
+  top: 17.2%;
+  left: 19.88%;
+  display: inline-block;
+}
+.arrow-icon {
+  position: absolute;
+  height: 33.33%;
+  width: 6.22%;
+  top: 34.41%;
+  right: 15.06%;
+  bottom: 32.26%;
+  left: 78.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.view-buttondefault1 {
+  width: 498px;
+  height: 93px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-poppins);
+}

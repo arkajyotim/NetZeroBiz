@@ -1,0 +1,51 @@
+.backlogo428 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-open-item {
+  position: absolute;
+  top: 48px;
+  left: 7px;
+  background-color: var(--color-gainsboro);
+  width: 389px;
+  height: 108px;
+}
+.bags1 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  display: inline-block;
+  width: 228px;
+  height: 29px;
+}
+.frame-icon10 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.laptops3,
+.search-open1 {
+  position: absolute;
+  top: 108px;
+  left: 33px;
+  width: 259px;
+  height: 29px;
+}
+.search-open1 {
+  top: 0;
+  left: 0;
+  width: 402px;
+  height: 176px;
+  text-align: left;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-gray-300);
+  font-family: var(--font-gotham);
+}

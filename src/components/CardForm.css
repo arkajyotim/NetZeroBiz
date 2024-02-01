@@ -1,0 +1,110 @@
+.backlogo429,
+.backlogo430 {
+  background-color: var(--color-darkslategray);
+}
+.backlogo429 {
+  position: absolute;
+  top: 0;
+  left: 1042px;
+  border-radius: var(--br-7xs);
+  width: 343px;
+  height: 379px;
+}
+.backlogo430 {
+  left: 695px;
+}
+.backlogo4-icon5,
+.backlogo430,
+.backlogo431 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  width: 343px;
+  height: 379px;
+}
+.backlogo431 {
+  left: 347px;
+  background-color: var(--color-darkslategray);
+}
+.backlogo4-icon5 {
+  left: 0;
+}
+.safari-small-size {
+  position: absolute;
+  top: 311px;
+  left: 19px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-5-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.safari-small-size1 {
+  position: absolute;
+  top: 311px;
+  left: 364px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-6-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 360px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.safari-small-size2 {
+  position: absolute;
+  top: 311px;
+  left: 713px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-7-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 709px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.safari-small-size3 {
+  position: absolute;
+  top: 311px;
+  left: 1061px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-8-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 1057px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.row-23 {
+  position: absolute;
+  top: 405px;
+  left: 2px;
+  width: 1385px;
+  height: 379px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}

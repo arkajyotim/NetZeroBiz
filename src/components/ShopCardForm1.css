@@ -1,0 +1,22 @@
+.header3,
+.shop3 {
+  position: absolute;
+}
+.header3 {
+  top: -63px;
+  left: 2px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 1386px;
+  height: 63px;
+}
+.shop3 {
+  top: 276px;
+  left: 431px;
+  width: 1385px;
+  height: 379px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}

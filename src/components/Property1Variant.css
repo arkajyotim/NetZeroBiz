@@ -1,0 +1,74 @@
+.backlogo420 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-open-child {
+  position: absolute;
+  top: 48px;
+  left: 7px;
+  background-color: var(--color-gainsboro);
+  width: 389px;
+  height: 108px;
+}
+.bags {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  display: inline-block;
+  width: 228px;
+  height: 29px;
+}
+.frame-icon5 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.laptops {
+  position: absolute;
+  top: 108px;
+  left: 33px;
+  width: 259px;
+  height: 29px;
+}
+.search-open {
+  top: 0;
+  left: 0;
+  width: 402px;
+  height: 176px;
+}
+.b,
+.frame-icon6,
+.search-open {
+  position: absolute;
+}
+.b {
+  top: 10px;
+  left: 64px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 228px;
+  height: 29px;
+}
+.frame-icon6 {
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.property-1variant2 {
+  width: 402px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-gray-300);
+  font-family: var(--font-gotham);
+}

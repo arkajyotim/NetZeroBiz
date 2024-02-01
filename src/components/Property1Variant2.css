@@ -1,0 +1,24 @@
+.laptops2 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  display: inline-block;
+  width: 228px;
+  height: 29px;
+}
+.frame-icon9 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.property-1variant4 {
+  width: 259px;
+  height: 29px;
+  text-align: left;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-gray-300);
+  font-family: var(--font-gotham);
+}

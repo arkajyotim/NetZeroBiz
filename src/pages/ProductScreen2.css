@@ -1,0 +1,228 @@
+.background-blobs-icon6,
+.backlogo415 {
+  position: absolute;
+  top: -146px;
+  left: -72px;
+  width: 687.7px;
+  height: 699.5px;
+}
+.backlogo415 {
+  top: -7.3px;
+  left: -18px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 575px;
+  height: 48.5px;
+}
+.about-us5,
+.contact5,
+.home13,
+.products5 {
+  position: absolute;
+  top: 2.8px;
+  left: 420.4px;
+  display: inline-block;
+  width: 92.8px;
+  height: 28.8px;
+}
+.about-us5,
+.home13,
+.products5 {
+  left: 269.2px;
+  width: 110.4px;
+}
+.home13,
+.products5 {
+  top: 2.4px;
+  left: 126.2px;
+  width: 102.1px;
+}
+.home13 {
+  top: 2.8px;
+  left: 15.8px;
+  width: 69.6px;
+}
+.line-icon {
+  position: absolute;
+  top: 30.2px;
+  left: 128px;
+  max-height: 100%;
+  width: 97px;
+}
+.navbar5 {
+  position: absolute;
+  top: 102.3px;
+  left: 450px;
+  width: 540px;
+  height: 33.7px;
+}
+.backlogo416,
+.backlogo417 {
+  background-color: var(--color-darkslategray);
+}
+.backlogo416 {
+  position: absolute;
+  top: 0;
+  left: 1042px;
+  border-radius: var(--br-7xs);
+  width: 343px;
+  height: 379px;
+}
+.backlogo417 {
+  left: 695px;
+}
+.backlogo4-icon2,
+.backlogo417,
+.backlogo418 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  width: 343px;
+  height: 379px;
+}
+.backlogo418 {
+  left: 347px;
+  background-color: var(--color-darkslategray);
+}
+.backlogo4-icon2 {
+  left: 0;
+}
+.ezee-black-garbage2 {
+  position: absolute;
+  top: 311px;
+  left: 19px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-5-icon2 {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.redragon-k617-fizz2 {
+  position: absolute;
+  top: 311px;
+  left: 364px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-6-icon2 {
+  position: absolute;
+  top: 27px;
+  left: 360px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.qizlar-extended-gaming2 {
+  position: absolute;
+  top: 311px;
+  left: 713px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-7-icon2 {
+  position: absolute;
+  top: 20px;
+  left: 709px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.wild-stone-code2 {
+  position: absolute;
+  top: 311px;
+  left: 1061px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.image-8-icon2 {
+  position: absolute;
+  top: 20px;
+  left: 1057px;
+  width: 314px;
+  height: 269px;
+  object-fit: cover;
+}
+.row-22 {
+  top: 405px;
+  left: 2px;
+  width: 1385px;
+  height: 379px;
+}
+.header2,
+.row-22,
+.shop2 {
+  position: absolute;
+}
+.header2 {
+  top: -63px;
+  left: 2px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 1386px;
+  height: 48px;
+}
+.shop2 {
+  top: 276px;
+  left: 431px;
+  width: 1385px;
+  height: 379px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+}
+.backlogo419 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-products4 {
+  position: absolute;
+  top: 9px;
+  left: 114px;
+  display: inline-block;
+  width: 228px;
+  height: 29px;
+}
+.frame-icon4 {
+  position: absolute;
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.search-bar4 {
+  position: absolute;
+  top: 95px;
+  left: 1086px;
+  width: 402px;
+  height: 48px;
+  color: var(--color-gray-400);
+}
+.product-screen-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
