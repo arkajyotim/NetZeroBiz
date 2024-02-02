@@ -1,10 +1,5 @@
 import { useEffect } from "react";
-import {
-  Routes,
-  Route,
-  useNavigationType,
-  useLocation,
-} from "react-router-dom";
+import {Routes,Route,useNavigationType,useLocation} from "react-router-dom";
 import HOMEMAIN from "./pages/HOMEMAIN";
 import ProductScreen2 from "./pages/ProductScreen2";
 import ProductScreen1 from "./pages/ProductScreen1";

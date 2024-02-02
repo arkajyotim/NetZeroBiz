@@ -102,7 +102,7 @@
 }
 .home-main {
   width: 100%;
-  position: relative;
+  position: fixed;
   background-color: var(--color-lightseagreen);
   height: 1080px;
   overflow: hidden;
@@ -111,4 +111,6 @@
   font-size: var(--font-size-45xl);
   color: var(--color-midnightblue-200);
   font-family: var(--font-poppins);
+  transform: scale(0.5);
+  
 }
