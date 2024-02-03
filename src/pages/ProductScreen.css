@@ -1,11 +1,27 @@
+<<<<<<< HEAD
 .background-blobs-icon1,
 .backlogo41 {
+=======
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.back4,
+.background-blobs-icon6 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: -146px;
   left: -72px;
   width: 687.7px;
   height: 699.5px;
 }
+<<<<<<< HEAD
 .backlogo41 {
   top: 0;
   left: 0;
@@ -26,10 +42,225 @@
   position: absolute;
   top: 12px;
   left: 28px;
+=======
+.back4 {
+  top: 846px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+  width: 846px;
+  height: 314px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.filters9 {
+  width: 256px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 82px;
+  flex-shrink: 0;
+}
+.vector-icon39 {
+  position: absolute;
+  height: 74.91%;
+  width: 75%;
+  top: 12.36%;
+  right: 12.5%;
+  bottom: 12.73%;
+  left: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checkbox,
+.laptop2 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+}
+.checkbox {
+  height: 92.07%;
+  width: 9.38%;
+  right: 90.63%;
+  bottom: 7.93%;
+  left: 0;
+  overflow: hidden;
+}
+.laptop2 {
+  height: 100%;
+  width: 87.11%;
+  left: 12.89%;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+.component-22 {
+  width: 256px;
+  position: relative;
+  height: 29px;
+}
+.checkbox-icon22 {
+  width: 24px;
+  height: 27.1px;
+  overflow: hidden;
+}
+.checkbox-icon22,
+.checkbox-icon23,
+.clothing4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.clothing4 {
+  width: 223px;
+  display: inline-block;
+  height: 29px;
+}
+.checkbox-icon23 {
+  width: 24px;
+  height: 26.7px;
+  overflow: hidden;
+}
+.filter-section3 {
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  width: 256px;
+  height: 322px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px 9px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.vector-icon40,
+.vector-icon41 {
+  position: absolute;
+  height: 39.47%;
+  width: 12.82%;
+  top: 0;
+  right: 87.18%;
+  bottom: 60.53%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon41 {
+  right: 65.81%;
+  left: 21.37%;
+}
+.vector-icon42,
+.vector-icon43,
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  position: absolute;
+  height: 39.47%;
+  width: 12.82%;
+  top: 0;
+  right: 44.44%;
+  bottom: 60.53%;
+  left: 42.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon43,
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  right: 21.37%;
+  left: 65.81%;
+}
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  right: 0;
+  left: 87.18%;
+}
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  top: 60.53%;
+  right: 87.18%;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  right: 65.81%;
+  left: 21.37%;
+}
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  right: 44.44%;
+  left: 42.74%;
+}
+.vector-icon48,
+.vector-icon49 {
+  right: 21.37%;
+  left: 65.81%;
+}
+.vector-icon49 {
+  right: 0;
+  left: 87.18%;
+}
+.color5 {
+  position: absolute;
+  top: -54px;
+  left: 3px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 256px;
+}
+.color-circle2 {
+  position: absolute;
+  top: 413px;
+  left: 21px;
+  width: 234px;
+  height: 76px;
+  text-align: left;
+}
+.price2 {
+  position: absolute;
+  top: 501px;
+  left: 11px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 114px;
+  height: 32.8px;
+}
+.price-icon3 {
+  position: absolute;
+  top: 510px;
+  left: 114px;
+>>>>>>> 7fff243 (frontend)
   width: 24px;
   height: 24px;
   overflow: hidden;
 }
+<<<<<<< HEAD
 .search-bar {
   position: absolute;
   top: 95px;
@@ -94,6 +325,125 @@
   background-color: var(--color-darkslategray);
 }
 .backlogo43 {
+=======
+.price-section-child4 {
+  position: absolute;
+  top: 52px;
+  left: 13.5px;
+  width: 234px;
+  height: 2px;
+  object-fit: contain;
+}
+.price-section-child5,
+.price-section-child6 {
+  position: absolute;
+  background-color: var(--color-gainsboro);
+}
+.price-section-child5 {
+  top: 41px;
+  left: 23px;
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+}
+.price-section-child6 {
+  top: 0;
+  left: 15px;
+  border-radius: var(--br-7xs);
+  width: 150px;
+  height: 30px;
+}
+.b10,
+.b11,
+.b9 {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  display: inline-block;
+  width: 45px;
+  height: 15px;
+}
+.b10,
+.b11 {
+  top: 70px;
+  left: 202px;
+  width: 54px;
+}
+.b11 {
+  top: 7px;
+  left: 63px;
+  color: var(--color-black);
+  height: 16px;
+}
+.price-section3 {
+  position: absolute;
+  top: 555px;
+  left: 8px;
+  width: 256px;
+  height: 85px;
+  font-size: var(--font-size-mini);
+}
+.location2 {
+  position: absolute;
+  top: 59px;
+  left: 15px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro);
+  width: 241px;
+  height: 30px;
+}
+.area5,
+.choose-location2 {
+  position: absolute;
+  display: inline-block;
+}
+.area5 {
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+  width: 114px;
+  height: 32.8px;
+}
+.choose-location2 {
+  top: 66px;
+  left: 32px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  width: 182px;
+  height: 15px;
+}
+.area4,
+.filters8 {
+  position: absolute;
+  top: 651px;
+  left: 8px;
+  width: 256px;
+  height: 89px;
+}
+.filters8 {
+  top: 213px;
+  left: 76px;
+  width: 314px;
+  height: 846px;
+  opacity: 0;
+  text-align: center;
+}
+.filters8.animate,
+.login10.animate,
+.main-logo7.animate,
+.navbar5.animate,
+.product-screen-1.animate,
+.row-22.animate,
+.search-bar5.animate,
+.shop4.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.backlogo428,
+.backlogo429 {
+  background-color: var(--color-darkslategray);
+}
+.backlogo428 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   left: 1042px;
@@ -101,18 +451,28 @@
   width: 343px;
   height: 379px;
 }
+<<<<<<< HEAD
 .backlogo44 {
   left: 695px;
 }
 .backlogo4-icon,
 .backlogo44,
 .backlogo45 {
+=======
+.backlogo429 {
+  left: 695px;
+}
+.backlogo4-icon6,
+.backlogo429,
+.backlogo430 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   border-radius: var(--br-7xs);
   width: 343px;
   height: 379px;
 }
+<<<<<<< HEAD
 .backlogo45 {
   left: 347px;
   background-color: var(--color-darkslategray);
@@ -121,6 +481,16 @@
   left: 0;
 }
 .ezee-black-garbage {
+=======
+.backlogo430 {
+  left: 347px;
+  background-color: var(--color-darkslategray);
+}
+.backlogo4-icon6 {
+  left: 0;
+}
+.ezee-black-garbage1 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 19px;
@@ -129,7 +499,11 @@
   width: 310px;
   height: 68px;
 }
+<<<<<<< HEAD
 .image-5-icon {
+=======
+.image-5-icon4 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 15px;
@@ -137,7 +511,11 @@
   height: 269px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 .redragon-k617-fizz {
+=======
+.redragon-k617-fizz1 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 364px;
@@ -146,7 +524,11 @@
   width: 310px;
   height: 68px;
 }
+<<<<<<< HEAD
 .image-6-icon {
+=======
+.image-6-icon4 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 27px;
   left: 360px;
@@ -154,7 +536,11 @@
   height: 269px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 .qizlar-extended-gaming {
+=======
+.qizlar-extended-gaming1 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 713px;
@@ -163,7 +549,11 @@
   width: 310px;
   height: 68px;
 }
+<<<<<<< HEAD
 .image-7-icon {
+=======
+.image-7-icon4 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 709px;
@@ -171,7 +561,11 @@
   height: 269px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 .wild-stone-code {
+=======
+.wild-stone-code1 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 1061px;
@@ -180,7 +574,11 @@
   width: 310px;
   height: 68px;
 }
+<<<<<<< HEAD
 .image-8-icon {
+=======
+.image-8-icon4 {
+>>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 1057px;
@@ -188,11 +586,17 @@
   height: 269px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 .row-2 {
+=======
+.row-22 {
+  position: absolute;
+>>>>>>> 7fff243 (frontend)
   top: 405px;
   left: 2px;
   width: 1385px;
   height: 379px;
+<<<<<<< HEAD
 }
 .header,
 .row-2,
@@ -200,6 +604,76 @@
   position: absolute;
 }
 .header {
+=======
+  opacity: 0;
+}
+.lg-electronics-ultragear-27gp71 {
+  position: absolute;
+  top: 311px;
+  left: 19px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 310px;
+  height: 96px;
+}
+.image-5-icon5 {
+  position: absolute;
+  top: 23px;
+  left: 42px;
+  width: 270px;
+  height: 262px;
+  object-fit: cover;
+}
+.himalaya-wellness-pure1 {
+  color: inherit;
+}
+.himalaya-wellness-pure-herbs-m1 {
+  margin: 0;
+}
+.image-6-icon5 {
+  position: absolute;
+  top: 23px;
+  left: 401px;
+  width: 236px;
+  height: 271px;
+  object-fit: cover;
+}
+.engage-woman-deodorant1,
+.lakme-absolute-skin1 {
+  position: absolute;
+  top: 311px;
+  left: 713px;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.engage-woman-deodorant1 {
+  left: 1061px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.image-8-icon5 {
+  position: absolute;
+  top: 11px;
+  left: 1057px;
+  width: 303px;
+  height: 278px;
+  object-fit: cover;
+}
+.row-32 {
+  top: 5px;
+  left: 4px;
+  width: 1385px;
+  height: 407px;
+}
+.header3,
+.row-32,
+.shop4 {
+  position: absolute;
+}
+.header3 {
+>>>>>>> 7fff243 (frontend)
   top: -63px;
   left: 2px;
   border-radius: var(--br-7xs);
@@ -207,11 +681,16 @@
   width: 1386px;
   height: 48px;
 }
+<<<<<<< HEAD
 .shop {
+=======
+.shop4 {
+>>>>>>> 7fff243 (frontend)
   top: 276px;
   left: 431px;
   width: 1385px;
   height: 379px;
+<<<<<<< HEAD
   text-align: center;
   font-size: var(--font-size-smi);
 }
@@ -223,6 +702,215 @@
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-3xl-3);
+=======
+  opacity: 0;
+  text-align: center;
+  font-size: var(--font-size-smi);
+}
+.frame-icon3 {
+  position: absolute;
+  top: 933px;
+  left: 269px;
+  width: 13px;
+  height: 12px;
+  overflow: hidden;
+}
+.logo-black7 {
+  position: absolute;
+  top: 0;
+  left: 134.1px;
+  border-radius: 31.36px 0 31.36px 0;
+  background-color: var(--color-black);
+  width: 138.7px;
+  height: 64.7px;
+}
+.netze8,
+.robiz8 {
+  position: absolute;
+  top: 8.9px;
+  left: 143.2px;
+  display: inline-block;
+  width: 173.8px;
+  height: 80.4px;
+}
+.netze8 {
+  top: 8.2px;
+  left: 0;
+  color: var(--color-black);
+  height: 48.4px;
+}
+.main-logo7 {
+  position: absolute;
+  top: 76px;
+  left: 110px;
+  width: 317px;
+  height: 89.3px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-6);
+}
+.backlogo434 {
+  top: 0;
+  left: calc(50% - 287.5px);
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 575px;
+  height: 48.5px;
+}
+.backlogo434,
+.home22,
+.home23 {
+  position: absolute;
+}
+.home23 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.home22 {
+  top: 10px;
+  left: calc(50% - 254.5px);
+  width: 72px;
+  height: 28px;
+  cursor: pointer;
+}
+.about-us5,
+.contact5,
+.products6 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% + 16.5px);
+  width: 107px;
+  height: 28px;
+}
+.contact5,
+.products6 {
+  left: calc(50% + 165.5px);
+}
+.products6 {
+  left: calc(50% - 140.5px);
+  cursor: pointer;
+}
+.login-brown5,
+.navbar5 {
+  position: absolute;
+  height: 48.5px;
+}
+.navbar5 {
+  top: 92px;
+  left: calc(50% - 523px);
+  width: 575px;
+  opacity: 0;
+  font-size: var(--font-size-3xl-3);
+}
+.login-brown5 {
+  top: 73.2px;
+  left: 92.5px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4.4px 10.6px #000;
+  width: 141.9px;
+}
+.login11 {
+  position: absolute;
+  top: 82px;
+  left: calc(50% - 89.35px);
+  display: inline-block;
+  width: 90.6px;
+  height: 29.1px;
+}
+.login10 {
+  position: absolute;
+  top: 10px;
+  right: -83.7px;
+  width: 414.7px;
+  height: 119px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-8xl-1);
+  color: var(--color-black);
+}
+.backlogo435 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-products5 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-gotham);
+  font-size: var(--font-size-3xl-3);
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 114px;
+  font-weight: 700;
+  color: var(--color-darkgray);
+  text-align: left;
+  width: 228px;
+  height: 29px;
+}
+.vector-icon55 {
+  height: 66.67%;
+  width: 66.67%;
+  top: 12.5%;
+  right: 20.83%;
+  bottom: 20.83%;
+  left: 12.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame2,
+.vector-icon55,
+.vector-icon56 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon56 {
+  height: 17.92%;
+  width: 17.92%;
+  top: 69.58%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 69.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+}
+.search-bar5 {
+  position: absolute;
+  top: 93px;
+  left: calc(50% + 126px);
+  width: 402px;
+  height: 48px;
+  opacity: 0;
+}
+.product-screen-1 {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+>>>>>>> 7fff243 (frontend)
   color: var(--color-white);
   font-family: var(--font-gotham);
 }
