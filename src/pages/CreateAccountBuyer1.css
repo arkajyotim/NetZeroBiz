@@ -1,0 +1,233 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.background-blobs-icon10 {
+  position: absolute;
+  top: -146px;
+  left: -72px;
+  width: 687.7px;
+  height: 699.5px;
+}
+.white-background5 {
+  position: absolute;
+  top: -10px;
+  left: 453px;
+  border-radius: var(--br-41xl) 0 0 var(--br-41xl);
+  background-color: var(--color-gray-100);
+  width: 1478px;
+  height: 1090px;
+}
+.create-accountdefault-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-black);
+}
+.create4 {
+  position: absolute;
+  height: 84.95%;
+  width: 33.57%;
+  top: 7.53%;
+  left: 33.93%;
+  display: inline-block;
+}
+.create-accountdefault2 {
+  position: absolute;
+  top: 808px;
+  left: 609px;
+  width: 560px;
+  height: 93px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.create-account-as3 {
+  position: absolute;
+  top: 122px;
+  left: 609px;
+  display: inline-block;
+  width: 507px;
+  height: 79px;
+}
+.back-button-img4 {
+  position: absolute;
+  top: 82px;
+  left: 610px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.seller-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-mediumaquamarine);
+}
+.seller11 {
+  position: absolute;
+  height: 84.95%;
+  width: 24.64%;
+  top: 7.53%;
+  left: 37.68%;
+  display: inline-block;
+}
+.seller10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.seller9 {
+  top: 203px;
+  left: 609px;
+  width: 560px;
+  height: 93px;
+  cursor: pointer;
+}
+.buyer6,
+.buyer7,
+.seller9 {
+  position: absolute;
+}
+.buyer7 {
+  height: 84.95%;
+  width: 27.32%;
+  top: 7.53%;
+  left: 36.25%;
+  display: inline-block;
+}
+.buyer6 {
+  top: 196px;
+  left: 1215px;
+  width: 560px;
+  height: 93px;
+  color: var(--color-white);
+}
+.already-have-an1 {
+  position: absolute;
+  top: 836px;
+  left: 1192px;
+  font-size: var(--font-size-5xl);
+}
+.sign-in3,
+.sign-in4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.sign-in3 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 836px;
+  left: 1538px;
+  width: 80px;
+  height: 36px;
+  font-size: var(--font-size-5xl);
+  color: inherit;
+}
+.first-name12,
+.first-name13,
+.first-name14,
+.first-name15,
+.first-name16 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 306px;
+  left: 1214px;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-500);
+}
+.first-name13,
+.first-name14,
+.first-name15,
+.first-name16 {
+  top: 442px;
+  left: 615px;
+}
+.first-name14,
+.first-name15,
+.first-name16 {
+  left: 1214px;
+}
+.first-name15,
+.first-name16 {
+  top: 306px;
+  left: 615px;
+}
+.first-name16 {
+  top: 578px;
+}
+.logo-black11 {
+  position: absolute;
+  top: 0;
+  left: 134.1px;
+  border-radius: 31.36px 0 31.36px 0;
+  background-color: var(--color-black);
+  width: 138.7px;
+  height: 64.7px;
+}
+.netze12,
+.robiz12 {
+  position: absolute;
+  top: 8.9px;
+  left: 143.2px;
+  display: inline-block;
+  width: 173.8px;
+  height: 80.4px;
+}
+.netze12 {
+  top: 8.2px;
+  left: 0;
+  color: var(--color-black);
+  height: 48.4px;
+}
+.main-logo11 {
+  position: absolute;
+  top: 476px;
+  left: 90px;
+  width: 317px;
+  height: 89.3px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-6);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
+.create-account-buyer1.animate,
+.main-logo11.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.create-account-buyer1 {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

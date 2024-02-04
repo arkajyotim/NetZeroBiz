@@ -1,0 +1,365 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.background-blobs-icon {
+  position: absolute;
+  width: calc(100% - 1232.3px);
+  top: -146px;
+  right: 1304.3px;
+  left: -72px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 699.5px;
+}
+.image-9-icon {
+  position: absolute;
+  top: -165px;
+  left: -317px;
+  width: 223.4px;
+  height: 520px;
+  object-fit: contain;
+}
+.explore-a-wide,
+.or {
+  position: absolute;
+  display: inline-block;
+}
+.or {
+  top: 255px;
+  left: 550px;
+  width: 71px;
+  height: 119px;
+  opacity: 0;
+}
+.empower-business-management.animate,
+.home-main.animate,
+.join-us.animate,
+.login.animate,
+.main-logo.animate,
+.middle-content-homepage.animate,
+.navbar.animate,
+.or.animate,
+.search-bar.animate,
+.view-button-component.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.explore-a-wide {
+  top: 145px;
+  left: -5px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue-100);
+  width: 1220px;
+  height: 86px;
+}
+.middle-content-homepage {
+  position: absolute;
+  top: 445px;
+  left: 440px;
+  width: 1220px;
+  height: 235px;
+  opacity: 0;
+}
+.empower-business-management {
+  position: absolute;
+  height: 26.57%;
+  width: 68.91%;
+  top: 24.44%;
+  left: 22.66%;
+  display: inline-block;
+  opacity: 0;
+}
+.view-buttondefault-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.77);
+}
+.view-products {
+  position: absolute;
+  height: 50.54%;
+  width: 60.04%;
+  top: 17.2%;
+  left: 19.88%;
+  display: inline-block;
+}
+.arrow-icon {
+  position: absolute;
+  height: 33.33%;
+  width: 6.22%;
+  top: 34.41%;
+  right: 15.06%;
+  bottom: 32.26%;
+  left: 78.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.view-buttondefault {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.view-button-component {
+  position: absolute;
+  top: 707px;
+  left: 440px;
+  width: 498px;
+  height: 93px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: var(--color-midnightblue-100);
+}
+.join-us1 {
+  position: absolute;
+  height: 50.54%;
+  width: 60.04%;
+  top: 17.2%;
+  left: 36.75%;
+  display: inline-block;
+}
+.arrow-icon1 {
+  position: absolute;
+  height: 33.33%;
+  width: 6.22%;
+  top: 31.18%;
+  right: 27.11%;
+  bottom: 35.48%;
+  left: 66.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.join-us {
+  position: absolute;
+  top: 707px;
+  left: 1117px;
+  width: 498px;
+  height: 93px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: var(--color-midnightblue-100);
+}
+.logo-black {
+  position: absolute;
+  top: 0;
+  left: 134.1px;
+  border-radius: 31.36px 0 31.36px 0;
+  background-color: var(--color-black);
+  width: 138.7px;
+  height: 64.7px;
+}
+.netze,
+.robiz {
+  position: absolute;
+  top: 8.9px;
+  left: 143.2px;
+  display: inline-block;
+  width: 173.8px;
+  height: 80.4px;
+}
+.netze {
+  top: 8.2px;
+  left: 0;
+  color: var(--color-black);
+  height: 48.4px;
+}
+.main-logo {
+  position: absolute;
+  top: 81px;
+  left: 101px;
+  width: 317px;
+  height: 89.3px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-6);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
+.backlogo4,
+.home1 {
+  position: absolute;
+  top: 0;
+}
+.backlogo4 {
+  left: calc(50% - 287.5px);
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 575px;
+  height: 48.5px;
+}
+.home1 {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  display: inline-block;
+}
+.about-us,
+.contact,
+.home,
+.products {
+  position: absolute;
+  top: 10px;
+  height: 28px;
+}
+.home {
+  left: calc(50% - 254.5px);
+  width: 72px;
+  cursor: pointer;
+}
+.about-us,
+.contact,
+.products {
+  left: calc(50% + 16.5px);
+  width: 107px;
+}
+.contact,
+.products {
+  left: calc(50% + 165.5px);
+}
+.products {
+  left: calc(50% - 140.5px);
+  cursor: pointer;
+}
+.navbar {
+  position: absolute;
+  top: 96px;
+  left: calc(50% - 534px);
+  width: 575px;
+  height: 48.5px;
+  opacity: 0;
+  font-size: var(--font-size-3xl-3);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
+.backlogo41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.51px;
+  background-color: var(--color-darkslategray);
+  width: 402px;
+  height: 48px;
+}
+.search-products {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-gotham);
+  font-size: var(--font-size-3xl-3);
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 114px;
+  font-weight: 700;
+  color: var(--color-darkgray);
+  text-align: left;
+  width: 228px;
+  height: 29px;
+}
+.vector-icon {
+  height: 66.67%;
+  width: 66.67%;
+  top: 12.5%;
+  right: 20.83%;
+  bottom: 20.83%;
+  left: 12.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 17.92%;
+  width: 17.92%;
+  top: 69.58%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 69.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 12px;
+  left: 28px;
+  width: 24px;
+  height: 24px;
+}
+.search-bar {
+  position: absolute;
+  top: 98px;
+  left: calc(50% + 118px);
+  width: 402px;
+  height: 48px;
+  opacity: 0;
+}
+.login-brown {
+  top: 73.2px;
+  left: 92.5px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-khaki);
+  box-shadow: 0 4.4px 10.6px #000;
+  width: 141.9px;
+  height: 48.5px;
+}
+.login,
+.login-brown,
+.login1 {
+  position: absolute;
+}
+.login1 {
+  top: 82px;
+  left: calc(50% - 89.35px);
+  display: inline-block;
+  width: 90.6px;
+  height: 29.1px;
+}
+.login {
+  top: 16px;
+  right: -91.7px;
+  width: 414.7px;
+  height: 119px;
+  opacity: 0;
+  cursor: pointer;
+  font-size: var(--font-size-8xl-1);
+  color: var(--color-black);
+  font-family: var(--font-gotham);
+}
+.home-main {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-lightseagreen);
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-poppins);
+}
