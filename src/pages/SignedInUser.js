@@ -67,12 +67,12 @@ const SignedInUser = () => {
           <b className="sports2">Sports</b>
           <b className="grocery6">Grocery</b>
           <b className="clothing6">Clothing</b>
-          <img className="checkbox-icon33" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon34" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon35" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon36" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon37" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon38" alt="" src="/checkbox.svg" />
+          <img className="checkbox-icon33" alt="" src="/checkbox9.svg" />
+          <img className="checkbox-icon34" alt="" src="/checkbox10.svg" />
+          <img className="checkbox-icon35" alt="" src="/checkbox11.svg" />
+          <img className="checkbox-icon36" alt="" src="/checkbox12.svg" />
+          <img className="checkbox-icon37" alt="" src="/checkbox13.svg" />
+          <img className="checkbox-icon38" alt="" src="/checkbox14.svg" />
           <b className="filters13">Filters</b>
           <b className="electronics6">Electronics</b>
           <b className="health6">Health</b>
@@ -176,13 +176,13 @@ const SignedInUser = () => {
       <img
         className="frame-icon6"
         alt=""
-        src="/frame1.svg"
+        src="/frame11.svg"
         onClick={onFrameClick}
       />
       <img
         className="frame-icon7"
         alt=""
-        src="/frame.svg"
+        src="/frame2.svg"
         onClick={onFrameIconClick}
       />
       <div className="welcome-rexon">
@@ -222,7 +222,7 @@ const SignedInUser = () => {
         />
         <button className="frame4">
           <img className="vector-icon74" alt="" src="/vector.svg" />
-          <img className="vector-icon75" alt="" src="/vector.svg" />
+          <img className="vector-icon75" alt="" src="/vector1.svg" />
         </button>
       </div>
     </div>

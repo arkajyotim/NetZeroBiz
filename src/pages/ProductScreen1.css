@@ -1,20 +1,12 @@
 .background-blobs-icon3,
-<<<<<<< HEAD
-.backlogo48 {
-=======
 .backlogo410 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: -146px;
   left: -72px;
   width: 687.7px;
   height: 699.5px;
 }
-<<<<<<< HEAD
-.backlogo48 {
-=======
 .backlogo410 {
->>>>>>> 7fff243 (frontend)
   top: -7.3px;
   left: -18px;
   border-radius: var(--br-7xs);
@@ -22,17 +14,10 @@
   width: 575px;
   height: 48.5px;
 }
-<<<<<<< HEAD
-.about-us3,
-.contact3,
-.home11,
-.products3 {
-=======
 .about-us2,
 .contact2,
 .home10,
 .products2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 2.8px;
   left: 420.4px;
@@ -40,16 +25,6 @@
   width: 92.8px;
   height: 28.8px;
 }
-<<<<<<< HEAD
-.about-us3,
-.home11,
-.products3 {
-  left: 269.2px;
-  width: 110.4px;
-}
-.home11,
-.products3 {
-=======
 .about-us2,
 .home10,
 .products2 {
@@ -58,55 +33,34 @@
 }
 .home10,
 .products2 {
->>>>>>> 7fff243 (frontend)
   top: 2.4px;
   left: 126.2px;
   width: 102.1px;
 }
-<<<<<<< HEAD
-.home11 {
-=======
 .home10 {
->>>>>>> 7fff243 (frontend)
   top: 2.8px;
   left: 15.8px;
   width: 69.6px;
 }
-<<<<<<< HEAD
-.navbar-item {
-=======
 .navbar-child {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 30.2px;
   left: 128px;
   max-height: 100%;
   width: 97px;
 }
-<<<<<<< HEAD
-.navbar3 {
-=======
 .navbar2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 102.3px;
   left: 450px;
   width: 540px;
   height: 33.7px;
 }
-<<<<<<< HEAD
-.backlogo410,
-.backlogo49 {
-  background-color: var(--color-darkslategray);
-}
-.backlogo49 {
-=======
 .backlogo411,
 .backlogo412 {
   background-color: var(--color-darkslategray);
 }
 .backlogo411 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   left: 1042px;
@@ -114,37 +68,18 @@
   width: 343px;
   height: 379px;
 }
-<<<<<<< HEAD
-.backlogo410 {
-  left: 695px;
-}
-.backlogo4-icon1,
-.backlogo410,
-.backlogo411 {
-=======
 .backlogo412 {
   left: 695px;
 }
 .backlogo4-icon2,
 .backlogo412,
 .backlogo413 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   border-radius: var(--br-7xs);
   width: 343px;
   height: 379px;
 }
-<<<<<<< HEAD
-.backlogo411 {
-  left: 347px;
-  background-color: var(--color-darkslategray);
-}
-.backlogo4-icon1 {
-  left: 0;
-}
-.ezee-black-garbage1 {
-=======
 .backlogo413 {
   left: 347px;
   background-color: var(--color-darkslategray);
@@ -153,7 +88,6 @@
   left: 0;
 }
 .ezee-black-garbage {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 19px;
@@ -162,11 +96,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-5-icon1 {
-=======
 .image-5-icon2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 15px;
@@ -174,11 +104,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.redragon-k617-fizz1 {
-=======
 .redragon-k617-fizz {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 364px;
@@ -187,11 +113,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-6-icon1 {
-=======
 .image-6-icon2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 27px;
   left: 360px;
@@ -199,11 +121,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.qizlar-extended-gaming1 {
-=======
 .qizlar-extended-gaming {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 713px;
@@ -212,11 +130,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-7-icon1 {
-=======
 .image-7-icon2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 709px;
@@ -224,11 +138,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.wild-stone-code1 {
-=======
 .wild-stone-code {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 1061px;
@@ -237,11 +147,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-8-icon1 {
-=======
 .image-8-icon2 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 1057px;
@@ -250,19 +156,12 @@
   object-fit: cover;
 }
 .row-21 {
-<<<<<<< HEAD
-=======
   position: absolute;
->>>>>>> 7fff243 (frontend)
   top: 405px;
   left: 2px;
   width: 1385px;
   height: 379px;
 }
-<<<<<<< HEAD
-.header1,
-.row-21,
-=======
 .lg-electronics-ultragear-27gp7 {
   position: absolute;
   top: 311px;
@@ -325,7 +224,6 @@
 }
 .header1,
 .row-31,
->>>>>>> 7fff243 (frontend)
 .shop1 {
   position: absolute;
 }
@@ -345,9 +243,6 @@
   text-align: center;
   font-size: var(--font-size-smi);
 }
-<<<<<<< HEAD
-.backlogo412 {
-=======
 .logo-black4 {
   position: absolute;
   top: 0;
@@ -410,7 +305,6 @@
   color: var(--color-black);
 }
 .backlogo417 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   left: 0;
@@ -427,11 +321,7 @@
   width: 228px;
   height: 29px;
 }
-<<<<<<< HEAD
-.frame-icon2 {
-=======
 .frame-icon1 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 12px;
   left: 28px;
@@ -447,9 +337,6 @@
   height: 48px;
   color: var(--color-gray-400);
 }
-<<<<<<< HEAD
-.product-screen-4 {
-=======
 .back2 {
   position: absolute;
   top: 846px;
@@ -755,7 +642,6 @@
   font-size: var(--font-size-13xl);
 }
 .product-screen-2 {
->>>>>>> 7fff243 (frontend)
   width: 100%;
   position: relative;
   background-color: var(--color-lightseagreen);

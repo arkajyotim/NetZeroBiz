@@ -1,14 +1,4 @@
 import { useEffect } from "react";
-<<<<<<< HEAD
-import {Routes,Route,useNavigationType,useLocation} from "react-router-dom";
-import HOMEMAIN from "./pages/HOMEMAIN";
-import ProductScreen2 from "./pages/ProductScreen2";
-import ProductScreen1 from "./pages/ProductScreen1";
-import ProductScreen from "./pages/ProductScreen";
-import ProductLaptop from "./pages/ProductLaptop";
-import CreateAccount from "./pages/CreateAccount";
-import ProductScreenLaptop from "./pages/ProductScreenLaptop";
-=======
 import {
   Routes,
   Route,
@@ -29,7 +19,6 @@ import CreateAccountSignIn from "./pages/CreateAccountSignIn";
 import CreateAccountBuyer1 from "./pages/CreateAccountBuyer1";
 import SignedInUser from "./pages/SignedInUser";
 import SignedInUser1 from "./pages/SignedInUser1";
->>>>>>> 7fff243 (frontend)
 
 function App() {
   const action = useNavigationType();
@@ -51,8 +40,6 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-<<<<<<< HEAD
-=======
       case "/product-screen-bag":
         title = "";
         metaDescription = "";
@@ -65,20 +52,11 @@ function App() {
         title = "";
         metaDescription = "";
         break;
->>>>>>> 7fff243 (frontend)
       case "/product-screen-2":
         title = "";
         metaDescription = "";
         break;
-<<<<<<< HEAD
-      case "/product-screen-4":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/product-screen-1":
-=======
       case "/home-main-proto":
->>>>>>> 7fff243 (frontend)
         title = "";
         metaDescription = "";
         break;
@@ -86,13 +64,6 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-<<<<<<< HEAD
-      case "/Join-Us":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/product-screen-laptop":
-=======
       case "/product-screen-1":
         title = "";
         metaDescription = "";
@@ -118,7 +89,6 @@ function App() {
         metaDescription = "";
         break;
       case "/signed-in-user-1":
->>>>>>> 7fff243 (frontend)
         title = "";
         metaDescription = "";
         break;
@@ -141,14 +111,6 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HOMEMAIN />} />
-<<<<<<< HEAD
-      <Route path="/product-screen-2" element={<ProductScreen2 />} />
-      <Route path="/product-screen-4" element={<ProductScreen1 />} />
-      <Route path="/product-screen-1" element={<ProductScreen />} />
-      <Route path="/product-laptop" element={<ProductLaptop />} />
-      <Route path="/Join-Us" element={<CreateAccount />} />
-      <Route path="/product-screen-laptop" element={<ProductScreenLaptop />} />
-=======
       <Route path="/product-screen-bag" element={<ProductScreenBag />} />
       <Route
         path="/create-account-seller-2"
@@ -165,7 +127,6 @@ function App() {
       <Route path="/create-account-buyer" element={<CreateAccountBuyer1 />} />
       <Route path="/signed-in-user" element={<SignedInUser />} />
       <Route path="/signed-in-user-1" element={<SignedInUser1 />} />
->>>>>>> 7fff243 (frontend)
     </Routes>
   );
 }

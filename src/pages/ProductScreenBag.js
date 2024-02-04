@@ -57,9 +57,9 @@ const ProductScreenBag = () => {
   return (
     <div className="product-screen-bag" data-animate-on-scroll>
       <div className="background-blobs">
-        <img className="vector-icon2" alt="" src="/vector.svg" />
-        <img className="vector-icon3" alt="" src="/vector1.svg" />
-        <img className="vector-icon4" alt="" src="/vector2.svg" />
+        <img className="vector-icon2" alt="" src="/vector2.svg" />
+        <img className="vector-icon3" alt="" src="/vector11.svg" />
+        <img className="vector-icon4" alt="" src="/vector21.svg" />
         <img className="vector-icon5" alt="" src="/vector3.svg" />
         <img className="vector-icon6" alt="" src="/vector4.svg" />
         <div className="main-logo1" onClick={onMainLogoContainerClick}>
