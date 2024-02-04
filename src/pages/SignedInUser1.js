@@ -59,12 +59,12 @@ const SignedInUser1 = () => {
           <b className="sports3">Sports</b>
           <b className="grocery7">Grocery</b>
           <b className="clothing7">Clothing</b>
-          <img className="checkbox-icon39" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon40" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon41" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon42" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon43" alt="" src="/checkbox.svg" />
-          <img className="checkbox-icon44" alt="" src="/checkbox.svg" />
+          <img className="checkbox-icon39" alt="" src="/checkbox9.svg" />
+          <img className="checkbox-icon40" alt="" src="/checkbox10.svg" />
+          <img className="checkbox-icon41" alt="" src="/checkbox11.svg" />
+          <img className="checkbox-icon42" alt="" src="/checkbox12.svg" />
+          <img className="checkbox-icon43" alt="" src="/checkbox13.svg" />
+          <img className="checkbox-icon44" alt="" src="/checkbox14.svg" />
           <b className="filters15">Filters</b>
           <b className="electronics7">Electronics</b>
           <b className="health7">Health</b>
@@ -150,8 +150,8 @@ const SignedInUser1 = () => {
         </div>
         <div className="header6" data-animate-on-scroll />
       </div>
-      <img className="profile-small-icon" alt="" src="/frame1.svg" />
-      <img className="frame-icon8" alt="" src="/frame@2x.png" />
+      <img className="profile-small-icon" alt="" src="/frame11.svg" />
+      <img className="frame-icon8" alt="" src="/frame3@2x.png" />
       <b className="rexon"> Rexon</b>
       <div className="drop-down-profile" data-animate-on-scroll>
         <div className="drop-down-profile-child" />
@@ -199,7 +199,7 @@ const SignedInUser1 = () => {
         />
         <button className="frame5">
           <img className="vector-icon76" alt="" src="/vector.svg" />
-          <img className="vector-icon77" alt="" src="/vector.svg" />
+          <img className="vector-icon77" alt="" src="/vector1.svg" />
         </button>
       </div>
     </div>

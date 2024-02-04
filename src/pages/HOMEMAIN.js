@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-import { useCallback } from "react";
-import ContainerCardForm from "../components/ContainerCardForm";
-import Property1Default1 from "../components/Property1Default1";
-import Property1Default from "../components/Property1Default";
-import Property1Default2 from "../components/Property1Default2";
-import Property1Default3 from "../components/Property1Default3";
-import "./HOMEMAIN.css";
-
-const HOMEMAIN = () => {
-  const onHOMEMAINContainerClick = useCallback(() => {
-    window.open("/Join-Us");
-  }, []);
-
-  return (
-    <div className="home-main" onClick={onHOMEMAINContainerClick}>
-=======
 import { useCallback, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./HOMEMAIN.css";
@@ -77,41 +60,11 @@ const HOMEMAIN = () => {
 
   return (
     <div className="home-main" data-animate-on-scroll>
->>>>>>> 7fff243 (frontend)
       <img
         className="background-blobs-icon"
         alt=""
         src="/backgroundblobs.svg"
       />
-<<<<<<< HEAD
-      <ContainerCardForm />
-      <div className="middle-content-homepage">
-        <img className="image-9-icon" alt="" src="/image-9@2x.png" />
-        <b className="or">or</b>
-        <b className="explore-a-wide">{`Explore a wide range of products listed by your local manufacturers and sellers and get them at very affordable prices and get it delivered to you ASAP. So why wait `}</b>
-      </div>
-      <b className="empower-business-management">
-        Empower Business management in remote areas by overcoming the hurdles
-      </b>
-      <Property1Default1
-        property1DefaultPosition="absolute"
-        property1DefaultTop="707px"
-        property1DefaultLeft="440px"
-      />
-      <Property1Default
-        property1DefaultPosition="absolute"
-        property1DefaultTop="24px"
-        property1DefaultLeft="1584px"
-      />
-      <Property1Default2
-        property1DefaultPosition="absolute"
-        property1DefaultTop="707px"
-        property1DefaultLeft="1117px"
-      />
-      <div className="navbar">
-        <div className="backlogo4" />
-        <div className="home">
-=======
       <div className="middle-content-homepage" data-animate-on-scroll>
         <img className="image-9-icon" alt="" src="/image-9@2x.png" />
         <b className="or" data-animate-on-scroll>
@@ -156,7 +109,6 @@ const HOMEMAIN = () => {
       <div className="navbar" data-animate-on-scroll>
         <div className="backlogo4" />
         <div className="home" onClick={onHomeContainerClick}>
->>>>>>> 7fff243 (frontend)
           <b className="home1">Home</b>
         </div>
         <div className="about-us">
@@ -165,17 +117,6 @@ const HOMEMAIN = () => {
         <div className="contact">
           <b className="home1">Contact</b>
         </div>
-<<<<<<< HEAD
-        <div className="products">
-          <b className="home1">Products</b>
-        </div>
-      </div>
-      <Property1Default3
-        property1DefaultPosition="absolute"
-        property1DefaultTop="95px"
-        property1DefaultLeft="1053px"
-      />
-=======
         <div className="products" onClick={onProductsContainerClick}>
           <b className="home1">Products</b>
         </div>
@@ -189,7 +130,7 @@ const HOMEMAIN = () => {
         />
         <button className="frame">
           <img className="vector-icon" alt="" src="/vector.svg" />
-          <img className="vector-icon1" alt="" src="/vector.svg" />
+          <img className="vector-icon1" alt="" src="/vector1.svg" />
         </button>
       </div>
       <div
@@ -200,7 +141,6 @@ const HOMEMAIN = () => {
         <div className="login-brown" />
         <b className="login1">LOGIN</b>
       </div>
->>>>>>> 7fff243 (frontend)
     </div>
   );
 };

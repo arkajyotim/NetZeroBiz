@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-.background-blobs-icon1,
-.backlogo41 {
-=======
 @keyframes slide-in-top {
   0% {
     transform: translateY(-200px);
@@ -14,35 +10,12 @@
 }
 .back4,
 .background-blobs-icon6 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: -146px;
   left: -72px;
   width: 687.7px;
   height: 699.5px;
 }
-<<<<<<< HEAD
-.backlogo41 {
-  top: 0;
-  left: 0;
-  border-radius: 11.51px;
-  background-color: var(--color-darkslategray);
-  width: 402px;
-  height: 48px;
-}
-.search-products {
-  position: absolute;
-  top: 9px;
-  left: 114px;
-  display: inline-block;
-  width: 228px;
-  height: 29px;
-}
-.frame-icon {
-  position: absolute;
-  top: 12px;
-  left: 28px;
-=======
 .back4 {
   top: 846px;
   left: 0;
@@ -255,77 +228,10 @@
   position: absolute;
   top: 510px;
   left: 114px;
->>>>>>> 7fff243 (frontend)
   width: 24px;
   height: 24px;
   overflow: hidden;
 }
-<<<<<<< HEAD
-.search-bar {
-  position: absolute;
-  top: 95px;
-  left: 1086px;
-  width: 402px;
-  height: 48px;
-  color: var(--color-gray-400);
-}
-.backlogo42 {
-  position: absolute;
-  top: -7.3px;
-  left: -18px;
-  border-radius: var(--br-7xs);
-  background-color: var(--color-darkslategray);
-  width: 575px;
-  height: 48.5px;
-}
-.about-us1,
-.contact1,
-.home5,
-.products1 {
-  position: absolute;
-  top: 2.8px;
-  left: 420.4px;
-  display: inline-block;
-  width: 92.8px;
-  height: 28.8px;
-}
-.about-us1,
-.home5,
-.products1 {
-  left: 269.2px;
-  width: 110.4px;
-}
-.home5,
-.products1 {
-  top: 2.4px;
-  left: 126.2px;
-  width: 102.1px;
-}
-.home5 {
-  top: 2.8px;
-  left: 15.8px;
-  width: 69.6px;
-}
-.navbar-child {
-  position: absolute;
-  top: 30.2px;
-  left: 128px;
-  max-height: 100%;
-  width: 97px;
-}
-.navbar1 {
-  position: absolute;
-  top: 102.3px;
-  left: 450px;
-  width: 540px;
-  height: 33.7px;
-}
-.backlogo43,
-.backlogo44 {
-  background-color: var(--color-darkslategray);
-}
-.backlogo43 {
-=======
 .price-section-child4 {
   position: absolute;
   top: 52px;
@@ -443,7 +349,6 @@
   background-color: var(--color-darkslategray);
 }
 .backlogo428 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   left: 1042px;
@@ -451,37 +356,18 @@
   width: 343px;
   height: 379px;
 }
-<<<<<<< HEAD
-.backlogo44 {
-  left: 695px;
-}
-.backlogo4-icon,
-.backlogo44,
-.backlogo45 {
-=======
 .backlogo429 {
   left: 695px;
 }
 .backlogo4-icon6,
 .backlogo429,
 .backlogo430 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 0;
   border-radius: var(--br-7xs);
   width: 343px;
   height: 379px;
 }
-<<<<<<< HEAD
-.backlogo45 {
-  left: 347px;
-  background-color: var(--color-darkslategray);
-}
-.backlogo4-icon {
-  left: 0;
-}
-.ezee-black-garbage {
-=======
 .backlogo430 {
   left: 347px;
   background-color: var(--color-darkslategray);
@@ -490,7 +376,6 @@
   left: 0;
 }
 .ezee-black-garbage1 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 19px;
@@ -499,11 +384,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-5-icon {
-=======
 .image-5-icon4 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 15px;
@@ -511,11 +392,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.redragon-k617-fizz {
-=======
 .redragon-k617-fizz1 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 364px;
@@ -524,11 +401,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-6-icon {
-=======
 .image-6-icon4 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 27px;
   left: 360px;
@@ -536,11 +409,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.qizlar-extended-gaming {
-=======
 .qizlar-extended-gaming1 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 713px;
@@ -549,11 +418,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-7-icon {
-=======
 .image-7-icon4 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 709px;
@@ -561,11 +426,7 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.wild-stone-code {
-=======
 .wild-stone-code1 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 311px;
   left: 1061px;
@@ -574,11 +435,7 @@
   width: 310px;
   height: 68px;
 }
-<<<<<<< HEAD
-.image-8-icon {
-=======
 .image-8-icon4 {
->>>>>>> 7fff243 (frontend)
   position: absolute;
   top: 20px;
   left: 1057px;
@@ -586,25 +443,12 @@
   height: 269px;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.row-2 {
-=======
 .row-22 {
   position: absolute;
->>>>>>> 7fff243 (frontend)
   top: 405px;
   left: 2px;
   width: 1385px;
   height: 379px;
-<<<<<<< HEAD
-}
-.header,
-.row-2,
-.shop {
-  position: absolute;
-}
-.header {
-=======
   opacity: 0;
 }
 .lg-electronics-ultragear-27gp71 {
@@ -673,7 +517,6 @@
   position: absolute;
 }
 .header3 {
->>>>>>> 7fff243 (frontend)
   top: -63px;
   left: 2px;
   border-radius: var(--br-7xs);
@@ -681,28 +524,11 @@
   width: 1386px;
   height: 48px;
 }
-<<<<<<< HEAD
-.shop {
-=======
 .shop4 {
->>>>>>> 7fff243 (frontend)
   top: 276px;
   left: 431px;
   width: 1385px;
   height: 379px;
-<<<<<<< HEAD
-  text-align: center;
-  font-size: var(--font-size-smi);
-}
-.product-screen-1 {
-  width: 100%;
-  position: relative;
-  background-color: var(--color-lightseagreen);
-  height: 1080px;
-  overflow: hidden;
-  text-align: left;
-  font-size: var(--font-size-3xl-3);
-=======
   opacity: 0;
   text-align: center;
   font-size: var(--font-size-smi);
@@ -910,7 +736,6 @@
   opacity: 0;
   text-align: left;
   font-size: var(--font-size-13xl);
->>>>>>> 7fff243 (frontend)
   color: var(--color-white);
   font-family: var(--font-gotham);
 }
