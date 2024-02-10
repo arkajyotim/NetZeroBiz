@@ -1,16 +1,4 @@
-<<<<<<< HEAD
- # Netzerobiz here
+# Netzerobiz
+NetZeroBiz is a online low bandwidth platform that helps to help grow business in small communities where there is resource but no way to use it.
 
-
-=======
-
-  # NetZeroBiz
-
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
->>>>>>> 7fff243 (frontend)
+![cick here to view the website homepage]([http://url/to/img.png](https://drive.google.com/file/d/1TRqLf6CnU5ONNKI5uyZ9KAwP7RkvPL2Q/view?usp=sharing)https://drive.google.com/file/d/1TRqLf6CnU5ONNKI5uyZ9KAwP7RkvPL2Q/view?usp=sharing)
